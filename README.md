@@ -1,4 +1,5 @@
 Bank Management System (Python)
+
 Overview
 This Bank Management System is a Python-based application that allows admins and users to perform basic banking operations, such as creating accounts, making deposits and withdrawals, checking balances, and viewing transaction histories. The system uses MySQL for data storage and management, ensuring that all user and admin data is securely handled.
 
